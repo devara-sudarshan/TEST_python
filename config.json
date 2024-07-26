@@ -1,0 +1,11 @@
+{
+    "s3_bucket": "s3-bucket-name",
+    "gcs_bucket": "gcs-bucket-name",
+    "s3_file_types": ["jpg", "png", "svg", "webp", "mp3", "mp4", "mpeg4", "wmv", "3gp", "webm"],
+    "gcs_file_types": ["doc", "docx", "csv", "pdf"],
+    "directory": "directory-path",
+    "aws_access_key_id": "aws-access-key-id",
+    "aws_secret_access_key": "aws-secret-access-key",
+    "gcp_project_id": "gcp-project-id",
+    "gcp_credentials_file": "service-account-file.json"
+}
